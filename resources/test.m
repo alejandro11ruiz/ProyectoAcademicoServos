@@ -1,3 +1,1 @@
-function 
-%no se programar xd
-end
+x=2
